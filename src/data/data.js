@@ -5,7 +5,7 @@ export const data=[
         id:"1",
         name:"React Porfolio",
         image:WorkImg,
-        github:"",
-        live:""
+        github:"https://github.com/emredogramaci/React-Portfolio",
+        live:"emrecv.netlify.app"
     }
 ]
