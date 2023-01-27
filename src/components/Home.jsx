@@ -14,7 +14,7 @@ function Home() {
           </div>
           <h2 className='text-2xl sm:text-4xl py-3 font-bold text-[#8892b0]'>Junior Front End Developer</h2>
           <p className='text-m sm:text-lg text-[#8892b0] py-4 max-w-[700px]'>Front End, React geliştirme ile ilgileniyorum. Yaptığım işlerin demolarına ve kaynak kodlarına aşağıdaki bölümden ulaşabilirsiniz. </p>
-          <div className='flex justify-start'>
+          <div className='flex justify-start cursor-pointer'>
             <Link to='work' smooth={true} duration={500} className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-orange-600 hover:border-orange-600'> Yaptıklarım 
               <span className='group-hover:rotate-90 duration-300'>
                   <HiArrowNarrowRight className='ml-3' />
