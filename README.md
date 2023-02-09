@@ -1,11 +1,9 @@
 # React Portfolio App
 
-React ile geliştirilmiş porfolio, CV uygulaması.
-
 -React
 
 -Tailwind CSS
 
--Firebase (Works)
+-Firebase
 
 Live: https://www.emredogramaci.com.tr/
