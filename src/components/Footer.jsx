@@ -42,7 +42,7 @@ const Footer = () => {
           <li className="flex items-center bg-red-700 rounded p-2 m-1">
             <a
               className="flex justify-between items-center"
-              href="https://drive.google.com/file/d/1QvQcsFrIe1gsnREJh70WipXZOUv-Th_H/view"
+              href="https://drive.google.com/file/d/1dKY3slg5jfFGXiyGM026Pzw1t4njPr5C/view"
             >
               {" "}
               <HiOutlineMail size={30} /> Özgeçmiş
